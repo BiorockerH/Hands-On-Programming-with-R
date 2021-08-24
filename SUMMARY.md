@@ -7,4 +7,5 @@
 * [第二部分](di-er-bu-fen-xiang-mu-2-wan-pu-ke-pai/README.md)
   * [第3章 R对象](di-er-bu-fen-xiang-mu-2-wan-pu-ke-pai/di-3-zhang-rdui-xiang.md)
   * [第4章 R的记号体系](di-er-bu-fen-xiang-mu-2-wan-pu-ke-pai/di-4-zhang-rde-ji-hao-ti-xi.md)
+  * [第5章 对象改值](di-er-bu-fen-xiang-mu-2-wan-pu-ke-pai/di-5-zhang-dui-xiang-gai-zhi.md)
 
